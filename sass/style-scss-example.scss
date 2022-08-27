@@ -1,0 +1,6 @@
+body {
+  background-color: aquamarine;
+  @media (max-width: 30em) {
+    background-color: black;
+  }
+}
